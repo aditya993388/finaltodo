@@ -36,20 +36,20 @@ export default {
 
 <style>
 .custom-todo-app {
-  font-family: 'Verdana', sans-serif; /* Changed the font */
+  font-family: 'Verdana', sans-serif; 
   max-width: 50%;
-  max-height: 50%; /* Adjusted the max width */
+  max-height: 50%; 
   margin: 0 0;
-  padding: 2rem; /* Increased padding */
-  background-color: #6edda9; /* Changed the background color to gold */
-  border-radius: 20px; /* Increased border radius */
+  padding: 2rem; 
+  background-color: #6edda9; 
+  border-radius: 20px; 
   text-align: center;
 }
 
 h1 {
-  font-size: 48px; /* Increased font size */
+  font-size: 48px; 
   margin-top: 10px;
-  margin-bottom: 30px; /* Increased margin-bottom */
+  margin-bottom: 30px; 
   color: #333;
 }
 
@@ -67,17 +67,17 @@ ul {
   margin-right: 3rem;
 }
 
-.custom-delete-button { /* Updated button class */
-  background-color: #858180; /* Changed delete button background color to orange red */
+.custom-delete-button 
+  background-color: #858180; 
   color: #fff;
   border: none;
-  padding: 5px 9px; /* Adjusted button padding */
+  padding: 5px 9px; 
   cursor: pointer;
-  font-size: 16px; /* Increased font size */
+  font-size: 16px; 
   margin-top: -1rem;
 }
 
 .custom-delete-button:hover {
-  background-color: #CD5C5C; /* Changed delete button hover color to Indian red */
+  background-color: #CD5C5C; 
 }
 </style>
